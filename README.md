@@ -10,12 +10,8 @@ Após o login temos a home_page onde possui uma navBar com o e-mail utilizado pa
 Na tela seguinte temos uma listagem com os produtos relacionado com a categoria selecionada, onde possui os atributos de nome, valor e imagem.
 Na seleção de um produto temos a página de detalhe do produto, onde contém uma botão para compra e um para selecionar a quantidade de itens. 
 
-Bugs:
-
-Não está filtrando os produtos após selecionar uma categoria.
-
 Novas funcionalidades: 
-
+(Tudo no BD)
 Inserção de um produto.
 Exclusão de um produto.
 Edição de um produto.
